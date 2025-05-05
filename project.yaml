@@ -1,0 +1,5 @@
+name: MyProject
+version: 2.49.0
+environment:
+	-development
+	-production
